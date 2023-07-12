@@ -1,6 +1,7 @@
 NewsApp
 
 A simple Android app that displays news headlines from various sources.
+
 Features
 
     Get news headlines from various sources.
@@ -38,4 +39,8 @@ How to contribute to the app
 If you want to contribute to the app, you can fork the repository and make your changes. Once you have made your changes, you can submit a pull request.
 
 App Demo Video
+
+
+
+https://github.com/contactkaran/NewsApp/assets/108695031/648816e8-b143-4142-b2e0-24b612f6d9da
 
